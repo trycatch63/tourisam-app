@@ -1,0 +1,25 @@
+/* #footer {
+    background-color: #F3F3F3;
+    padding-top: 10px;
+    padding-bottom: 0px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+} */
+.footer-box{
+	background: #292f35;
+	padding: 20px 0;
+}
+
+.footer-box .footer-company-name{
+	text-align: center;
+	margin: 0px;
+	color: #ffffff;
+}
+
+.footer-box .footer-company-name a{
+	color: #00cb86;
+}
+.footer-box .footer-company-name a:hover{
+	color: #000000;
+}
